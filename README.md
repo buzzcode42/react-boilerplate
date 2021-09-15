@@ -14,9 +14,9 @@ To install all dependencies run `yarn install or yarn` at the root
 
 - Typescript - Type checking. Learn more at [TS website](https://typescriptlang.org/).
 - Airbnb Style Eslint & Prettier - Readability. Learn more at [Eslint website](https://eslint.org/) and [Prettier website](https://prettier.io/)
-- Husky & Lint-staged - Git Hooks. Learn more at [Husky website](https://typicode.github.io) and [Lint-staged Documentation](https://github.com/)
+- Husky & Lint-staged - Git Hooks. Learn more at [Husky website](https://typicode.github.io) and [Lint-staged Documentation](https://github.com/okonet/lint-staged)
 - Styled-components - CSS. Learn more at [SC website](https://styled-components.com)
-- React-icons - Icons. Learn more at [RI website](https://react-icons.org/)
+- React-icons - Icons. Learn more at [RI website](https://react-icons.github.io/react-icons/)
 
 ## How to make a commmit
  To make a commit must be used a following rule:
