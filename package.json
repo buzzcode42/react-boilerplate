@@ -11,8 +11,10 @@
     "build": "react-scripts build",
     "lint": "eslint src --max-warnings=0",
     "postinstall": "husky install",
-    "test": "jest",
-    "test:watch": "jest --watch",
+    "test": "jest --passWithNoTests",
+    "test:watch": "yarn test -- --watch",
+    "test:staged": "yarn test -- --findRelatedTests",
+    "test:ci": "yarn test -- -- coverage",
     "eject": "react-scripts eject"
   },
   "husky": {
